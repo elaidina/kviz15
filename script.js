@@ -21,7 +21,7 @@ const quizData = [
     correct: "b",
 },
 {
-  question: "4. Zubaři hodnotili  dětské zubní pasty. 9 z 10 zubařů dopručilo pastu Elmex. Kolik je to procent?",
+  question: "4. Zubaři hodnotili  dětské zubní pasty. 9 z 10 zubařů doporučilo pastu Elmex. Kolik je to procent?",
   a: "90 %",
   b: "9 %",
   
@@ -34,26 +34,26 @@ const quizData = [
   correct: "b",
 },
 {
-question: "6. 20 % dětí sbírá karticky pokemonů. Na hřišti je 10 dětí. Kolik z nich sbírá kartičky pokemonů?",
+question: "6. 20 % dětí sbírá kartičky pokemonů. Na hřišti je 10 dětí. Kolik z nich sbírá kartičky pokemonů?",
 a: "5",
 b: "2",
 
 correct: "b",
 },{
-  question: "7. Každá flaška dobije Mišce energii o 10%. Kolik % bude mít Miška když měla 20% a vypije ještě 3 flašky? ",
+  question: "7. Každá flaška dobije Mišce energii o 10%. Kolik % bude mít Miška, když měla 20% a vypije ještě 3 flašky? ",
   a: "60 %",
   b: "50 %",
   
   correct: "b",
 },
 {
-question: "8. Čokoláda Malamela obsahuje 50 % cukru a váži 100 gramov. Kolik gramů cukru obsahuje? ",
+question: "8. Čokoláda Malamela obsahuje 50 % cukru a váží 100 gramů. Kolik gramů cukru obsahuje? ",
 a: "50 g",
 b: "80 g",
 
 correct: "a",
 },{
-  question: "9. Jedna desetina z 300 klíšťat je infikováno boreliózou. Kolik je to klíšťat?",
+  question: "9. Jedna desetina z 300 klíšťat je infikována boreliózou. Kolik je to klíšťat?",
   a: "100",
   b: "30",
   
@@ -125,7 +125,7 @@ correct: "b",
   correct: "a",
 },
 {
-question: "20. 30% z 10 jablek bylo zkažených? Kolik bylo dobrých?",
+question: "20. 30% z 10 jablek bylo zkažených. Kolik bylo dobrých?",
 a: "7",
 b: "3",
 
